@@ -1,5 +1,5 @@
 cask "progress11" do
-  version "1.0.24"
+  version "1.0.25"
   sha256 :no_check
 
   url "https://github.com/simonbloom/gittool-releases/releases/download/v#{version}/Progress11.dmg"
